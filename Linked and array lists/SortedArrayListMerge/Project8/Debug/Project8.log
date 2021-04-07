@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\ziemian\source\repos\project8\project8\main.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ziemian\source\repos\project8\project8\main.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project8.vcxproj -> C:\Users\Ziemian\source\repos\Project8\Debug\Project8.exe

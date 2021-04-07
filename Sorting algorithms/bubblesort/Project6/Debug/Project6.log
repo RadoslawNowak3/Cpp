@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\ziemian\source\repos\project6\project6\source.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ziemian\source\repos\project6\project6\source.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ziemian\source\repos\project6\project6\source.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ziemian\source\repos\project6\project6\source.cpp(48): warning C4101: 'i': unreferenced local variable
+  Project6.vcxproj -> C:\Users\Ziemian\source\repos\Project6\Debug\Project6.exe

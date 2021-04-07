@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\ziemian\source\repos\sortedarraylistefficiency\project10\source.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project10.vcxproj -> C:\Users\Ziemian\source\repos\SortedArrayListEfficiency\Debug\Project10.exe

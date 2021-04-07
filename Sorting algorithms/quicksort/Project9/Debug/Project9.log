@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\ziemian\source\repos\project9\project9\source.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ziemian\source\repos\project9\project9\source.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ziemian\source\repos\project9\project9\source.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ziemian\source\repos\project9\project9\source.cpp(71): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project9.vcxproj -> C:\Users\Ziemian\source\repos\Project9\Debug\Project9.exe

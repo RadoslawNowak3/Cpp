@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\ziemian\source\repos\countingsort\project8\source.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ziemian\source\repos\countingsort\project8\source.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ziemian\source\repos\countingsort\project8\source.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project8.vcxproj -> C:\Users\Ziemian\source\repos\countingsort\Debug\Project8.exe

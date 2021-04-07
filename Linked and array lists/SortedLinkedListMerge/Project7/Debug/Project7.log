@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\ziemian\source\repos\project7\project7\sortedlinkedlist.h(62): error C2760: syntax error: unexpected token '&&', expected 'expression'
+  c:\users\ziemian\source\repos\project7\project7\sortedlinkedlist.h(329): note: see reference to class template instantiation 'SortedLinkedList<T>' being compiled
+c:\users\ziemian\source\repos\project7\project7\main.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ziemian\source\repos\project7\project7\main.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data

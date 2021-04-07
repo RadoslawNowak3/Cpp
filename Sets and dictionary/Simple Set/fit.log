@@ -1,0 +1,110 @@
+
+
+*******************************************************************************
+Mon May 18 23:19:17 2020
+
+
+FIT:    data read from "dane.txt" using 1:2
+        format = x:z
+        x range restricted to [-33334.2 : 591666.]
+        #datapoints = 250
+        residuals are weighted equally (unit weight)
+
+function used for fitting: t(x)
+	t(n) = b*n+c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   b             c            
+   0 4.3627091168e+00   0.00e+00  1.02e-01    5.000000e-07   1.000000e-07
+   3 6.9710890768e-04  -1.48e-05  1.02e-04    4.104605e-08   1.000217e-07
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.000697109
+rel. change during last iteration : -1.47883e-10
+
+degrees of freedom    (FIT_NDF)                        : 248
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00167658
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.81092e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+b               = 4.10461e-08      +/- 7.346e-10    (1.79%)
+c               = 1.00022e-07      +/- 0.0002114    (2.114e+05%)
+
+correlation matrix of the fit parameters:
+                b      c      
+b               1.000 
+c              -0.865  1.000 
+
+
+*******************************************************************************
+Tue May 19 05:49:29 2020
+
+
+FIT:    data read from "dane2.txt" using 1:2
+        format = x:z
+        x range restricted to [-10755.5 : 82994.5]
+        #datapoints = 42
+        residuals are weighted equally (unit weight)
+
+function used for fitting: t(x)
+	t(n) = b*n + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   b             c            
+   0 1.9692594985e+03   0.00e+00  5.38e+00   -1.587498e-04   8.473179e-01
+   5 1.1748237010e-06  -1.23e-09  5.38e-05    3.865391e-08   1.772303e-05
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.17482e-06
+rel. change during last iteration : -1.22568e-14
+
+degrees of freedom    (FIT_NDF)                        : 40
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000171379
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.93706e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+b               = 3.86539e-08      +/- 1.091e-09    (2.822%)
+c               = 1.7723e-05       +/- 5.196e-05    (293.2%)
+
+correlation matrix of the fit parameters:
+                b      c      
+b               1.000 
+c              -0.861  1.000 
+
+
+*******************************************************************************
+Tue May 19 05:53:03 2020
+
+
+FIT:    data read from "Dane2.txt" using 1:2
+        format = x:z
+        #datapoints = 250
+        residuals are weighted equally (unit weight)
+
+function used for fitting: t(x)
+	t(n) = b*n + c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   b             c            
+   0 2.4561931899e-03   0.00e+00  8.14e-03    4.000000e-08   1.000000e-08
+   2 2.4130176264e-03  -7.18e-03  8.14e-05    4.144393e-08   1.000969e-08
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 0.00241302
+rel. change during last iteration : -7.17909e-08
+
+degrees of freedom    (FIT_NDF)                        : 248
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00311928
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.72991e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+b               = 4.14439e-08      +/- 1.367e-09    (3.298%)
+c               = 1.00097e-08      +/- 0.0003934    (3.93e+06%)
+
+correlation matrix of the fit parameters:
+                b      c      
+b               1.000 
+c              -0.865  1.000 

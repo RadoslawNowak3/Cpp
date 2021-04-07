@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\ziemian\source\repos\project12\project12\source.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ziemian\source\repos\project12\project12\source.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ziemian\source\repos\project12\project12\source.cpp(31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ziemian\source\repos\project12\project12\source.cpp(115): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+  Project12.vcxproj -> C:\Users\Ziemian\source\repos\Project12\Debug\Project12.exe
